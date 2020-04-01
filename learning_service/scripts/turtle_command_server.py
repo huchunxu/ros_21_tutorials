@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+########################################################################
+####          Copyright 2020 GuYueHome (www.guyuehome.com).          ###
+########################################################################
+
 # 该例程将执行/turtle_command服务，服务数据类型std_srvs/Trigger
 
 import rospy

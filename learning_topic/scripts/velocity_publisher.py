@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+########################################################################
+####          Copyright 2020 GuYueHome (www.guyuehome.com).          ###
+########################################################################
+
 # 该例程将发布turtle1/cmd_vel话题，消息类型geometry_msgs::Twist
 
 import rospy

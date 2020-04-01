@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+########################################################################
+####          Copyright 2020 GuYueHome (www.guyuehome.com).          ###
+########################################################################
+
 # 该例程将发布/person_info话题，自定义消息类型learning_topic::Person
 
 import rospy

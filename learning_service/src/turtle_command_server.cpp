@@ -24,7 +24,7 @@ bool commandCallback(std_srvs::Trigger::Request  &req,
 
 	// 设置反馈数据
 	res.success = true;
-	res.message = "Change turtle command state!"
+	res.message = "Change turtle command state!";
 
     return true;
 }
